@@ -42,11 +42,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.html">Praxis Mustermann</a>
+              <a class="navbar-brand" href="index.php">Praxis Mustermann</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Willkommen</a></li>
+                <li class="active"><a href="index.php
+                  ">Willkommen</a></li>
                 <li><a href="about.html">Über uns</a></li>
                 <li><a href="contact.html">Kontakt &amp; Anfahrt</a></li>
               </ul>
@@ -99,7 +100,7 @@
       <!-- START THE FEATURETTES -->
       <div class="row featurette">
         <div class="col-md-9">
-          <h2 class="featurette-heading no-margin-top">Herzlich Willkommen! <span class="text-muted">Ihre Praxis Mustermann.</span></h2>
+          <h2 class="featurette-heading no-margin-top">Welcome!<span class="text-muted"> Current date: <?php echo date("d-m-Y H:i:s"); ?>.</span></h2>
           <p class="lead">
             Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. 
             Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
