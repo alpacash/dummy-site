@@ -42,14 +42,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.php">Praxis Mustermann</a>
+              <a class="navbar-brand" href="/">Praxis Mustermann</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php
-                  ">Willkommen</a></li>
-                <li><a href="about.html">Über uns</a></li>
-                <li><a href="contact.html">Kontakt &amp; Anfahrt</a></li>
+                <li class="active"><a href="/
+                  ">Welcome</a></li>
+                <li><a href="about.html">About us</a></li>
+                <li><a href="contact.html">Contact</a></li>
               </ul>
             </div>
           </div>
